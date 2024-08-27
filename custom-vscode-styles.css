@@ -146,6 +146,15 @@
   display: block;
 }
 
+.find-widget {
+  background-color: #2c2c28 !important;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.45) !important;
+}
+
+.monaco-inputbox {
+  background-color: #2c2c28 !important;
+}
+
 /* Search icon */
 .search-icon {
   display: none !important;
